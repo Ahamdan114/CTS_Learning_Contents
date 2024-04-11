@@ -5,40 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf7f5125-654a-4f3a-9d71-ec250365029d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/MainAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/Concert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/ConcertPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/IShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/Spectacol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/StandupComedy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/StandupPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/Teatru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/example/TheaterPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation/BeefBurgerRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation/VegganBurgerRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSGPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSManufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/GPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIGPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIManufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/implementation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/example/initial/GamingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/example/initial/GamingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/example/initial/IGamingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/example/initial/IGamingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Builder_Pattern/src/cts/builder_pattern/example/initial/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns/Factory_Pattern/src/cts/factory/pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/MainAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/Concert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/ConcertPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/IShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/Spectacol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/StandupComedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/StandupPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/Teatru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/example/TheaterPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation/BeefBurgerRestaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation/VegganBurgerRestaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSGPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/ASUSMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/GPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIGPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/MSIMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/implementation_abstract_factory/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/implementation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/example/initial/GamingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/example/initial/GamingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/example/initial/IGamingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/example/initial/IGamingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Builder_Pattern/src/cts/builder_pattern/example/initial/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CTS_Creational_Patterns_/Factory_Pattern/src/cts/factory/pattern/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +107,7 @@
       <workItem from="1712870994583" duration="27000" />
       <workItem from="1712871024338" duration="10000" />
       <workItem from="1712871036866" duration="54000" />
+      <workItem from="1712871168374" duration="329000" />
     </task>
     <servers />
   </component>
