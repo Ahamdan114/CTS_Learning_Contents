@@ -1,0 +1,16 @@
+Doriti sa dezvoltati o aplicatie pentru configurarea sistemelor de gaming utilizand componentele deja existente specifice ( IGamingSystem ) 
+si clasele externe.
+
+Cerinte:
+
+4p. Incepand de la interfata data IGamingSystem definiti doua clase externe: Keyboard si Mouse, fiecare avand o metoda connect() 
+care indica conectarea clasei la sistemul aplicatiei curente create pe care o dezvoltati: un joc de gaming.
+Implementati clasele externe astfel incat sa poata fi folosite în cadrul sistemului de gaming:
+
+public interface IGamingSystem {
+    void printConfiguration();
+}
+
+1p. In main(), creati o instanta a fiecarei clase externe (Mouse si Keyboard) si utilizati adapterele corespunzatoare pentru a afisa configuratiile lor în 
+cadrul aplicatiei de configurare a sistemului de gaming.
+Asigurati-va ca aplicatia foloseste metodele adaptate ale claselor externe pentru a afisa configuratiile sistemului de gaming.
